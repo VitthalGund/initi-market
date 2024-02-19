@@ -72,6 +72,3 @@ This project is licensed under the [Apache License 2.0](LICENSE).
 For any inquiries or feedback, feel free to reach out to the project owner:
 
 GitHub: [VitthalGund](https://github.com/VitthalGund)
-```
-
-This README now includes more comprehensive information and the Apache-2.0 license. Feel free to use it for your project! Let me know if you need further assistance!
