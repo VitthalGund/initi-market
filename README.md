@@ -31,7 +31,7 @@ To get started with InitiMarket, follow these steps:
 
 2. Install dependencies:
    ```bash
-   cd InitiMarket
+   cd InitiMarket-main
    npm install
    ```
 
