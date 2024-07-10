@@ -17,6 +17,7 @@ InitiMarket is an e-commerce website developed using the MEAN stack (MongoDB, Ex
 - **Frontend**: Angular, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
+- **ORM**: Mongoose 
 - **Payment Processing**: Stripe
 
 ## Getting Started 🚀
